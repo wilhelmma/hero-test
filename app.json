@@ -1,0 +1,18 @@
+{
+    "name": "Hero-test",
+    "description": "Test on Heroku.",
+    "keywords": ["Hero"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "02227ed0-082b-4cf7-abba-961703c97350"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://gitlab.com/wilhelmma/hero-test",
+    "repository": "https://gitlab.com/wilhelmma/hero-test",
+    "stack": "container"
+}
