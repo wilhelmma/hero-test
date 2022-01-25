@@ -1,18 +1,13 @@
-# Heroku-test
+## Hero-test
 
-## 概述
+## 步骤
 
-## 部署
-
-### 步骤
-
- 1. Fork 本专案到自己的 GitHub 账户（用户名以 `example` 为例）
- 2. 修改专案名称，注意不要包含 `` 和 两个关键字（修改后的专案名以 `demo` 为例）
-
+1. Fork 到自己的 GitHub 账户，修改专案名称（以 `example`or`demo` 为例）
+2. 回到专案首页，点击链接以部署，template后面链接替换为自己的repo
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wilhelmma/hero-test)
 
- 4. 回到专案首页，点击上面的链接以部署
+
 
 ### 变量
 
